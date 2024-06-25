@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/hariharan" target="blank"><img src="https://img.shields.io/twitter/follow/hariharan?logo=twitter&style=for-the-badge" alt="hariharan" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **PYTHON**
 
 - 💬 Ask me about **android,MEARN**
 
